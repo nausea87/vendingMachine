@@ -2,4 +2,5 @@
 
 'Disgusting Vending Machine' as first C# assignement.
 
-<img src="https://media3.giphy.com/media/G32Bcxd304dmlcKdFS/giphy.webp?cid=ecf05e47w0cqtez0pf9wt3bkuh7mr3sgf0x373eot8caxxhn&rid=giphy.webp" width="40%"
+<iframe src="https://giphy.com/embed/G32Bcxd304dmlcKdFS" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe><p><a href="https://giphy.com/gifs/SVT-svt-play-tysk-G32Bcxd304dmlcKdFS">via GIPHY</a></p>
