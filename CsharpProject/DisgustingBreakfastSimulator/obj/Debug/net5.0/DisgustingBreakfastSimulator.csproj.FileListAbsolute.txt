@@ -1,0 +1,15 @@
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/bin/Debug/net5.0/DisgustingBreakfastSimulator.deps.json
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/bin/Debug/net5.0/DisgustingBreakfastSimulator.runtimeconfig.json
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/bin/Debug/net5.0/DisgustingBreakfastSimulator.runtimeconfig.dev.json
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/bin/Debug/net5.0/DisgustingBreakfastSimulator.dll
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/bin/Debug/net5.0/ref/DisgustingBreakfastSimulator.dll
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/bin/Debug/net5.0/DisgustingBreakfastSimulator.pdb
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.csprojAssemblyReference.cache
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.AssemblyInfoInputs.cache
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.AssemblyInfo.cs
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.csproj.CoreCompileInputs.cache
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.dll
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/ref/DisgustingBreakfastSimulator.dll
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.pdb
+/Users/erikwhite/Desktop/C#/CsharpProject/DisgustingBreakfastSimulator/obj/Debug/net5.0/DisgustingBreakfastSimulator.genruntimeconfig.cache
