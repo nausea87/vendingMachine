@@ -11,3 +11,4 @@ Some stuff you can do:
 3. Sort items by price, name, bubble.
 4. Search products (currently have give an exact search).
 5. Calculate total price.
+6. Glenn Hysén.
