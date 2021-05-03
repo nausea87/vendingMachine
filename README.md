@@ -12,3 +12,5 @@ Some stuff you can do:
 4. Search products (currently have give an exact search).
 5. Calculate total price.
 6. Glenn Hysén.
+
+I appologize in advance for my terrible humour.
